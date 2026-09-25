@@ -1,0 +1,6 @@
+{
+  "name": "AgriConnect",
+  "description": "From Farm to the Right Market - Strengthening market linkages, live mandi price discovery, weather, and buyer connections for Indian farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
