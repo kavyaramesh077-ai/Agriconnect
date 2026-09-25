@@ -11,7 +11,7 @@ import {
   AlertNotification,
 } from '../types';
 
-const API_BASE = 'https://agriconnect-galq.onrender.com/api';
+const API_BASE = 'https://agriconnect-qalg.onrender.com/api';
 
 export const api = {
   // 1. Mandi Prices
